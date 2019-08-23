@@ -1,0 +1,9 @@
+output:
+
+
+The shortest path is:
+  0 -> 2 -> 6 -> 5 -> 4 -> 3 -> 1 -> 0
+
+Route is:
+
+Mysore -> Chennapatna -> Somantahpur -> Nagarhole -> Bandipur -> Nanjangud -> Mandya -> Mysore
